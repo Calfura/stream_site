@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-// import "./styles/App.css"
+import "./styles/App.css"
 import Template from "./pages/_TempatePage";
 
 function App() {
