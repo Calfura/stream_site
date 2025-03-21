@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    width: 95%;
+    height: 5rem;
+    background-color: red;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#titleContainer {
+    width: 60%;
+}
+
+#titleCard {
+    width: 100%;
+}
